@@ -16,7 +16,7 @@ from .. import loader, utils
 logger = logging.getLogger("AutoLesya")
 
 lesya = 757724042  # ID бота
-lesya_chat = 
+lesya_chat = -489442634
 
 BITCOIN_FARM_PRICE = 80000000
 
